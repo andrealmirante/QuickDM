@@ -1,13 +1,16 @@
-# QuickDM
-Quick Dungeon Master (QuickDM for short) is a website that allows you to take simple notes for everything running up in your sessions.
+I was invited by user @nemokyto to help him with this project. It consists of a website that facilitates RPG games, providing data, dice rolling, and a text note area with the option to save and download.
 
-### QuickDM offers various features for Dungeon Masters, such as:
-* A textbox for making notes;
-* A menu with numerous dices for your rolls;
-* A customizable "character health bar editor" for your battles.
+My part in this project was making changes to the HTML and styling the website using CSS and Bootstrap 5 elements.
 
-QuickDM is a simple and fast solution that offers a immersive environment for busy DMs, and will soon be hosted on GitHub Pages!
+The project will continue to receive improvement updates over time.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fui convidado pelo usuário @nemokyto para ajudá-lo nesse projeto. Ele consiste em um site que facilita jogos de RPG, fornecendo dados, rolagem de dados e uma área de anotações de texto com opção de salvar e baixar.
 
+Minha parte nesse projeto foi fazer alterações no HTML e estilizar o site utilizando elementos CSS e Bootstrap 5.
+
+O projeto continuará recebendo atualizações de melhoria ao longo do tempo.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Special thanks to:
 * [Sarmento Neto](https://github.com/Sarmentoneto) for the coding guidance and general help;
