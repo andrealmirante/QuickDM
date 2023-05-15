@@ -3,6 +3,7 @@ I was invited by user @nemokyto to help him with this project. It consists of a 
 My part in this project was making changes to the HTML and styling the website using CSS and Bootstrap 5 elements.
 
 The project will continue to receive improvement updates over time.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fui convidado pelo usuário @nemokyto para ajudá-lo nesse projeto. Ele consiste em um site que facilita jogos de RPG, fornecendo dados, rolagem de dados e uma área de anotações de texto com opção de salvar e baixar.
 
